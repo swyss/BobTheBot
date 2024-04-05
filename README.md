@@ -1,4 +1,4 @@
 # BobTheBot
 A Python Showcase -> ChatBot
 
-![Logo](./assets/logo.png)
+![Logo](./assets/logo.jpg)
